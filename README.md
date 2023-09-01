@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doc0x1
+- 👋 I’m @Doc0x1
 - 👀 I’m interested in ... Penetration testing, malware/offensive pentesting tool development, Bug Bounty hunting, and computer programming in general.
 - 🌱 I’m currently learning ... More
 - 💞️ I’m looking to collaborate on ... Just about any Pentesting/InfoSec projects and tools focused on automation.
