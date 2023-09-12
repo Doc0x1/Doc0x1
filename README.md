@@ -1,11 +1,11 @@
-- 👋 I’m @Doc0x1
+- 👋 I am @Doc0x1
 - 👀 I’m interested in ... Penetration testing, malware/offensive pentesting tool development, Bug Bounty hunting, and computer programming in general.
-- 🌱 I’m currently learning ... More
-- 💞️ I’m looking to collaborate on ... Just about any Pentesting/InfoSec projects and tools focused on automation.
-- 📫 How to reach me ... You can contact me via email at doc@drgreyhat.com
+- 🌱 I’m currently learning AI deep learning
+- 💞️ I’m looking to collaborate on stuff that interests me
+- 📫 How to reach me - Find me at discord.gg/owlsec <3
 
-- I'm comfortable working with the following: PHP, JavaScript, Python.
-- I also have a fair bit of experience working with the Laravel framework.
+- I mainly use Python, but also know JS and PHP. I've also worked with Laravel/React/NextJS
+- I'm usually doing Hack The Box/Try Hack Me and improving my pentesting skills. I enjoy automating the process.
 
 <!---
 Doc0x1/Doc0x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
