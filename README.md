@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Penetration testing, malware/offensive pentesting tool development, Bug Bounty hunting, and computer programming in general.
 - 🌱 I’m currently learning AI deep learning
 - 💞️ I’m looking to collaborate on stuff that interests me
-- 📫 How to reach me - Find me at discord.gg/owlsec <3
+- 📫 Discord - doc.py
 
 - I mainly use Python, but also know JS and PHP. I've also worked with Laravel/React/NextJS
 - I'm usually doing Hack The Box/Try Hack Me and improving my pentesting skills. I enjoy automating the process.
