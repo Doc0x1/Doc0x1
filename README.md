@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Doc0x1/Doc0x1/blob/main/iamdoc.PNG">
+  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/iamdoc.png">
 </p>
 
 # Hello! This is my GitHub.
