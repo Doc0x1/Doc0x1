@@ -2,7 +2,7 @@
   <img src="https://github.com/Doc0x1/Doc0x1/blob/master/iamdoc.png">
 </p>
 
-# Hello! This is my GitHub.
+<h1 align="center">Yep, it's me.</h1>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Doc0x1/count.svg">
