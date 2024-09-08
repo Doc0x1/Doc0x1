@@ -6,62 +6,43 @@
   <img src="https://profile-counter.glitch.me/Doc0x1/count.svg">
 </p>
 
+## Programmer | Web Pentester | Prompt Engineer
+Feel free to reach out to me in the Hack Nexus Discord server below.
+### Primary Interests
 
-<div align="center">
- <h1>Looking for a community?</h1> 
+- Web Development
+- Penetration Testing
+- Automation
+- LLM-related programming/training techniques
+
+<br>
+
+<div align="left">
+ <h1>The Hack Nexus Community</h1> 
   <h3>
     This is a CyberSecurity server for individuals of all skill levels to socialize, learn, and improve their skills in.
   </h3>
-  <h4>Check it out if you're interested. It's just a Discord server.</h4>
  <div>
-   
-
-  <h3>  
-  ⬇️
+  <h3>
   
-  <br>
-    
-  [Click here to join Hack Nexus](https://discord.gg/hacknexus)
+  [Click here to join Hack Nexus](https://discord.gg/6tSbqvn7K6)
   </h3>
-  
  </div>
 </div>
 
-<hr>
+<div align="justify">
 
-<div align="left">
-  <h2>About Me</h2>
-  <ul align="left">
-    <b><li>My interests include:</li></b>
-    <ul>
-    <li>Web Development</li>
-    <li>Penetration Testing</li>
-    <li>Automation</li>
-    <li>Learning</li>
-    <li>LLM-related programming/training techniques</li>
-    <li>Literally anything else I find interesting</li>
-    </ul>
-  </ul>
-</div>
-
-- [Hack Nexus - Discord](https://discord.gg/hacknexus)
-
----
-
-## Stuff I Use
-
+## Tools & Languages
 [![Python][python-shield]][python-url]
-[![Kali Linux][kali-linux-shield]][kali-linux-url]
-[![Bash][bash-shield]][bash-url]
-[![Nmap][nmap-shield]][nmap-url]
-[![PowerShell][powershell-shield]][powershell-url]
-[![Node.js][nodejs-shield]][nodejs-url]
 [![TypeScript][typescript-shield]][typescript-url]
 [![JavaScript][javascript-shield]][javascript-url]
-[![Prisma][prisma-shield]][prisma-url]
+[![Bash][bash-shield]][bash-url]
+[![Node.js][nodejs-shield]][nodejs-url]
 [![Discord.js][discordjs-shield]][discordjs-url]
+[![Prisma][prisma-shield]][prisma-url]
 [![Prettier][prettier-shield]][prettier-url]
 [![ESLint][eslint-shield]][eslint-url]
+</div>
 
 <!-- Shields and Urls -->
 [typescript-shield]: https://img.shields.io/badge/-TypeScript-000080?logo=typescript&logoColor=white&style=for-the-badge
