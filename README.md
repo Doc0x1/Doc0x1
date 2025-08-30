@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/banner.png" height="300px" width="300px">
+  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/banner.png" height="594px" width="512px">
 </p>
 
 ## Programmer | Web Pentester | Prompt Engineer
