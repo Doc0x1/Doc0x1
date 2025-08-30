@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/banner.png">
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Doc0x1/count.svg">
+  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/banner.png" height="300px" width="300px">
 </p>
 
 ## Programmer | Web Pentester | Prompt Engineer
