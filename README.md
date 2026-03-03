@@ -1,33 +1,31 @@
 <p align="center">
-  <img src="https://github.com/Doc0x1/Doc0x1/blob/master/banner.png" height="594px" width="512px">
+  <div style="width: 100%; height: 500px; overflow: hidden;">
+    <img src="banner.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
+  </div>
 </p>
 
-# Doc0x1 - About Me
-### Web Developer | Cybersecurity Specialist | IT Specialist
-Founder & mentor at [Hack Nexus](https://hacknexus.io) — teaching Web Development & Ethical Hacking
+# 👋 About Me
+### Security focused Full-Stack Engineer | Scalable Web Applications | Systems & Security
 
-## Hack Nexus - Built by Hackers, for Hackers.
-Whether you're a beginner, a CTF competitor, or a seasoned pentester, Hack Nexus has a place for you. Learn, compete, and connect with others who share your interest in Ethical Hacking and Cyber Security.
-### Our Discord link:
+I build production-ready web applications with a focus on scalability, clean architecture, and secure design.
 
-[![Hack_Nexus][hacknexus-discord-shield]][hacknexus-url]
-## Skills
-- Full-Stack Web Development
-- API Development
-- Penetration Testing
-- Information Technology
-- Prompt Engineering
-## Interests
-- Learning new frameworks, tools & techniques
-- Developing tools for development, cybersecurity, etc.
-- Mobile App development with Flutter/Dart
-- Teaching & Mentoring
-- Automation Techniques
+My work centers around modern TypeScript ecosystems, API architecture, database design, and containerized workflows.
 
-## Developer Tools
+## 💻 Core Stack
+
+- Next.js / React / TypeScript
+- Node.js APIs
+- PostgreSQL / Prisma ORM
+- TailwindCSS
+- Docker & containerized workflows
+- Authentication & secure systems design
+
+## 🛠️ Developer Tools
 [![Next.js][nextjs-shield]][nextjs-url]
+[![Laravel][laravel-shield]][laravel-url]
 [![TypeScript][typescript-shield]][typescript-url]
-[![JavaScript][javascript-shield]][javascript-url]
+[![Python][python-shield]][python-url]
+[![PHP][php-shield]][php-url]
 [![PNPM][pnpm-shield]][pnpm-url]
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Prisma][prisma-shield]][prisma-url]
@@ -37,15 +35,13 @@ Whether you're a beginner, a CTF competitor, or a seasoned pentester, Hack Nexus
 [![Node.js][nodejs-shield]][nodejs-url]
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 [![Discord.js][discordjs-shield]][discordjs-url]
-## Cybersecurity Tools/Programs/Shells
-[![Kali Linux][kali-linux-shield]][kali-linux-url]
-![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-[![NMAP][nmap-shield]][nmap-url]
-[![Python][python-shield]][python-url]
-[![Bash][bash-shield]][bash-url]
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
-[![PowerShell][powershell-shield]][powershell-url]
+
+## 📡 Hack Nexus 
+[![Hack_Nexus][hacknexus-discord-shield]][hacknexus-url]
+
+Founder of a developer & cybersecurity community focused on practical learning, CTF training, and technical mentorship.
+
+Built infrastructure, automation systems, and tooling to support a growing technical audience.
 
 <div align="justify">
 
@@ -53,10 +49,14 @@ Whether you're a beginner, a CTF competitor, or a seasoned pentester, Hack Nexus
 [Freelancer]: https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white
 [nextjs-shield]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 [nextjs-url]: https://nextjs.org/
+[laravel-shield]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[laravel-url]: https://laravel.com/docs/
 [react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://react.dev/
 [typescript-shield]: https://img.shields.io/badge/-TypeScript-000080?logo=typescript&logoColor=white&style=for-the-badge
 [typescript-url]: https://www.typescriptlang.org/
+[php-shield]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php-url]: https://www.php.net/docs.php
 [pnpm-shield]: https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220
 [pnpm-url]: https://pnpm.io
 [prisma-shield]: https://img.shields.io/badge/-Prisma-black?logo=prisma&logoColor=white&style=for-the-badge
@@ -71,16 +71,6 @@ Whether you're a beginner, a CTF competitor, or a seasoned pentester, Hack Nexus
 [eslint-url]: https://eslint.org/
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://python.org
-[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
-[bash-url]: https://www.gnu.org/software/bash/
-[kali-linux-shield]: https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-[kali-linux-url]: https://www.kali.org/
-[nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
-[nmap-url]: https://nmap.org/
-[powershell-shield]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-[powershell-url]: https://docs.microsoft.com/en-us/powershell/
 [hacknexus-discord-shield]: https://img.shields.io/badge/Hack_Nexus-004bf2?style=for-the-badge&logo=discord&logoColor=white
 [hacknexus-url]: https://discord.gg/6tSbqvn7K6
 
