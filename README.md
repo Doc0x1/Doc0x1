@@ -13,7 +13,7 @@ My work centers around modern TypeScript ecosystems, API architecture, database 
 
 ## 💻 Core Stack
 
-- Next.js / React / TypeScript
+- Next.js / React / TypeScript / Python
 - Node.js APIs
 - PostgreSQL / Prisma ORM
 - TailwindCSS
